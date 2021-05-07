@@ -1,7 +1,7 @@
-package org.jetbrains.plugins.template.services
+package com.github.as23751782.easytools.services
 
+import com.github.as23751782.easytools.MyBundle
 import com.intellij.openapi.project.Project
-import org.jetbrains.plugins.template.MyBundle
 
 class MyProjectService(project: Project) {
 
